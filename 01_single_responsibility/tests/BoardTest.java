@@ -6,7 +6,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.util.ArrayList;
 
-public class BoardTest {
+public class BoardTest  {
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
     @Test
